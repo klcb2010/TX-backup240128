@@ -27,7 +27,6 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-{"key":"玩偶表哥弹幕","name":"玩偶表哥┃弹幕","type":3,"api":"csp_Wobg","jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D","quickSearch":1, "changeable":1, "filterable":1, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",  "danmu" : true}, "timeout":30},
 {"key":"盘99弹幕版","name":"盘99┃弹幕","type":3,"api":"csp_Pan99","jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D","searchable":1,"filterable":1,"changeable":1, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",  "danmu" : true}, "timeout": 30},
 {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"泥巴弹幕版","name":"泥巴┃弹幕","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
@@ -74,7 +73,6 @@
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"4KHDR","name":"世界磁力┃慎用","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","timeout":30},
@@ -114,10 +112,6 @@
 {"key":"csp_XP_dmw","name":"影视┃动漫岛[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dmw.json"},
 {"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/gongreng.json"},
 {"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/duboku.json"},
-
-{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
-],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name": "飞云","type": 1,"url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=","ext": {"flag": ["FYNB","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header": {"User-Agent": "okhttp/4.1.0"}}},
