@@ -1,8 +1,8 @@
 {
 "spider":"./jar/fan.txt;md5;fd784008ab71d81a178564841059756d",
-"lives":[{"name":"范明明•v6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/v6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YueChan•综合","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"饭太硬•综合","type":0,"url":"https://jihulab.com/klcb2012/TVBOX/-/raw/master/IPTV-fantaiying.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+"lives":[{"name":"范明明IPv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/v6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YueChanIPv6","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"饭太硬IPv6","type":0,"url":"https://jihulab.com/klcb2012/TVBOX/-/raw/master/IPTV-fantaiying.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
