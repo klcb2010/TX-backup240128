@@ -1,5 +1,6 @@
 完全去除同步  删除广告
-https://live.fanmingming.com/tv/m3u/v6.m3u
+
+集成IPTV6 
 
 源代码  2024
 https://github.com/gaotianliuyun/gao
