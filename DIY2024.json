@@ -19,7 +19,6 @@
 {"key":"盘99弹幕版","name":"盘99┃弹幕","type":3,"api":"csp_Pan99","jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D","searchable":1,"filterable":1,"changeable":1, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",  "danmu" : true}, "timeout": 30},
 {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"泥巴弹幕版","name":"泥巴┃弹幕","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-{"key":"csp_QuPanSou","name":"趣盘搜┃弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"纸条","name":"纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"盘Se","name":"盘Se┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"找資源","name":"找資源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "username": "fanty", "password": "qqq111", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
@@ -32,7 +31,6 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-{"key":"盘搜","name":"盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"易搜","name":"易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true, "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
