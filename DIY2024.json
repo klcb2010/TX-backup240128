@@ -15,7 +15,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.link/$$$弹"
     },
 {"key":"盘99弹幕版","name":"盘99┃弹幕","type":3,"api":"csp_Pan99","jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D","searchable":1,"filterable":1,"changeable":1, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",  "danmu" : true}, "timeout": 30},
 {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
