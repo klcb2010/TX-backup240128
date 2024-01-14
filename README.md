@@ -10,3 +10,6 @@ https://agit.ai/ddx/TVBox
 
 
 删除 js.json和cat/js下的两个YQK文件才能自定义
+
+
+token.json填写好以后放在/sdcard/TV/
