@@ -13,3 +13,4 @@ https://agit.ai/ddx/TVBox
 
 
 token.json填写好以后放在/sdcard/TV/
+第一个是阿里云盘 https://www.alipan.com/drive 查找t值就是值
