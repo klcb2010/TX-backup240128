@@ -9,7 +9,6 @@
 "sites":[
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊┃搜索[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-{"key":"csp_Qkpanso","name":"夸克盘搜┃弹幕","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"运输车弹幕版","name":"运输车┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","site": "https://www.weixine.net", "danmu" : true},  "timeout":30,"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
 {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
@@ -25,7 +24,6 @@
 {"key":"云盘4K","name":"云盘┃弹幕","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-
 {"key":"Czsapp","name":"厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/"},
 {"key":"Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -53,7 +51,6 @@
 {"key":"圣城影视","name":"圣城｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json"},
 {"key":"哔嘀影视","name":"哔嘀影视｜磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json"},
  {"key": "虎虎","name": "虎虎｜影视","type": 3,"api": "csp_XBPQ","ext": "./lib/虎虎.json"},{"key":"土豪影视","name":"土豪｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/土豪影视.json"},
-{"key":"芒果视频","name":"芒果｜影视","type":3,"api":"./js/drpy.min.js","ext":"./js/芒果视频.js"},
  {
       "key": "儿童英语",
       "name": "儿童英语",
@@ -139,9 +136,7 @@
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+
 {"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 ],
