@@ -12,5 +12,4 @@ https://agit.ai/ddx/TVBox
 删除 js.json和cat/js下的两个YQK文件才能自定义
 
 
-token.json填写好以后放在/sdcard/TV/
-第一个是阿里云盘 https://www.alipan.com/drive 查找t值就是值
+圣城等合并源码https://jihulab.com/xuanzhuapp/xzys
