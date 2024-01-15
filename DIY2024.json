@@ -51,6 +51,7 @@
 {"key":"圣城影视","name":"圣城｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json"},
 {"key":"哔嘀影视","name":"哔嘀影视｜磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json"},
  {"key": "虎虎","name": "虎虎｜影视","type": 3,"api": "csp_XBPQ","ext": "./lib/虎虎.json"},{"key":"土豪影视","name":"土豪｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/土豪影视.json"},
+ {"key":"芒果视频","name":"芒果｜影视","type":3,"api":"./js/drpy.min.js","ext":"./js/芒果视频.js"},
  {
       "key": "儿童英语",
       "name": "儿童英语",
