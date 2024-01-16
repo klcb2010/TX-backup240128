@@ -1,5 +1,8 @@
 集成V6 
 
+
+夸克需要在储存卡根目录创建TV文件夹 包含夸克cookie值的quark.txt放在里边 
+
 源代码  2024
 https://github.com/klcb2010/TVBOX
 
