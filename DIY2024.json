@@ -43,7 +43,7 @@
 {"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","timeout":30},
 {"key":"圣城影视","name":"圣城｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json"},"jar":"./spider.jar"},
 {"key":"哔嘀影视","name":"哔嘀影视｜磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json"},"jar":"./spider.jar"},
-{"key": "虎虎","name": "虎虎｜影视","type": 3,"api": "csp_XBPQ","ext": "./lib/虎虎.json","jar":"https://jihulab.com/klcb2012/TX/-/raw/master/spider.jar?ref_type=heads&inline=false";md5;d1fa24b46f218f455bc3f4b948fd457e"},
+{"key": "虎虎","name": "虎虎｜影视","type": 3,"api": "csp_XBPQ","ext": "./lib/虎虎.json","jar":"https://jihulab.com/klcb2012/TX/-/raw/master/spider.jar?ref_type=heads&inline=false;md5;d1fa24b46f218f455bc3f4b948fd457e"},
  {
       "key": "儿童英语",
       "name": "儿童英语",
