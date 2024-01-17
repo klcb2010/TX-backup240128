@@ -7,7 +7,7 @@
 "sites":[
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊┃搜索[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-{"key": "网盘配置","name": "测试网盘及弹幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"./lib/tokenm.json","jar": "./jar/pg.jar;md5;711ab2f193083d2814783c3271a2da9b"},
+{"key": "网盘配置","name": "网盘及弹幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"./lib/tokenm.json","jar": "./jar/pg.jar;md5;711ab2f193083d2814783c3271a2da9b"},
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"运输车弹幕版","name":"运输车┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","site": "https://www.weixine.net", "danmu" : false},  "timeout":30,"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
 {"key":"荐片弹幕版","name":"荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
@@ -22,8 +22,6 @@
 {"key":"Ppxzy","name":"皮皮虾4K|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg.jar"},			
 {"key":"csp_苹果","name":"苹果影视","type":3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/苹果影视.json","jar":"./jar/4k.jar"},
 {"key":"drpy_jsyt","name":"影探4K", "type":3,"api":"./lib/drpy.min.js","ext":"./js/yt.js","jar":"./jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F"},
-{"key":"校长影视","name":"校长","type":3,"api":"csp_XiaoZhang","jar":"./jar/pg.jar;md5;711ab2f193083d2814783c3271a2da9b","ext":"http://127.0.0.1:9978/file/TV/token.json","quickSearch":1,"changeable":1,"timeout":30},
-{"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"Czsapp","name":"厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/"},
 {"key":"Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
