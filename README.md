@@ -1,8 +1,7 @@
-
 删除 三三  百度  360 非凡  量子  云盘  直播  比赛  
 
 
-夸克cookie 选择https://drive-pc.quark.cn所在 复制cookie值  在储存卡根目录TV文件夹
+夸克cookie 选择https://drive-pc.quark.cn所在 复制cookie值  储存在SD卡根目录TV文件夹的文件quark_cookie.txt
 
 源代码  2024
 https://github.com/gaotianliuyun/gao
