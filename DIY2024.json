@@ -8,6 +8,8 @@
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊┃搜索[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
+{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"校长影视","name":"校长4K|网盘","type":3,"api":"csp_XiaoZhang","cookie":"http://127.0.0.1:9978/file/TV/quark_cookie.txt","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://127.0.0.1:9978/file/TV/tokenm.json","jar":"./jar/pg.jar;md5;700a6e117c244c8fd6165fb0de869307"},
 {"key":"荐片弹幕版","name":"荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
@@ -44,8 +46,6 @@
 {"key": "虎虎","name": "虎虎｜影视","type": 3,"api": "csp_XBPQ","jar":"./jar/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","searchable":1,"quickSearch":1,"filterable":1,"ext": "./lib/虎虎.json"},
 {"key":"哔嘀影视","name":"哔嘀影视｜磁力","type":3,"api":"csp_XYQHiker","jar":"./jar/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json"},
 {"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json","jar":"./jar/spider.jar"},
-{"key":"drpy_jsyt","name":"影探","type":3,"api":"csp_yt","ext":"lib/drpy.min.js","jar":"./jar/pg.jar;md5;700a6e117c244c8fd6165fb0de869307"},
- {"key" : "drpy_jsyt","name" : "影探测试","type" : 3,"api" : "./lib/drpy.min.js","jar":"./jar/pg.jar;md5;700a6e117c244c8fd6165fb0de869307","ext" : "./js/yt.js"},
  {
       "key": "儿童英语",
       "name": "儿童英语",
@@ -130,9 +130,6 @@
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
-
-{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
