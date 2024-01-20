@@ -43,24 +43,7 @@ var rule = {
                 url: input,
                 parse: 0
             }
-		} else if (/,/.test(input) && /url=/.test(input)) {
-			input = input.split('url=');
-			play_Url = input[0].split(',')[0];
-            input = {
-                jx: 0,
-                url: input[1],
-				playUrl: play_Url,
-                parse: 1
-            }
-		} else if (/url=|id=/.test(input)) {
-            input = {
-                jx: 0,
-                url: JSON.parse(request(input)).url,
-                parse: 0
-            }
-        } else if (/youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(input)) {
-			play_Url = /bilibili/.test(input) ? 'https://jx.xmflv.com/?url=' : 'https://jx.777jiexi.com/player/?url='; // type0的parse
-			// play_Url = /bilibili/.test(input) ? 'https://jx.xmflv.com/?url=' : 'json:http://pandown.pro/app/kkdy.php?url='; // type1的parse可加'json:'直接解析url (除了蜂蜜的'影视TV'，其它的壳皆可用)
+		}
 			input = {
 				jx: 0,
 				url: input,
