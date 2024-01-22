@@ -29,15 +29,15 @@
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_七新","name":"七新影视","type": 3,"api": "csp_XBPQ","jar": "./jar/0606.jar","searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"./json/七新影视.json"},
 {"key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./json/奇优影视.json","jar": "./jar/4k.jar"},
- {
+{
     "key":"csp_XBPQ_六度",
     "name":"六度影视",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
-    "filterable":0,
-    "jar": "./jar/0606.jar"},
+    "filterable":0,"ext":"https://6d.zzdacou.com/"
+    ,"jar": "./jar/4k.jar"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"九六","name":"九六直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"萌米","name":"萌米","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
