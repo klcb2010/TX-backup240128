@@ -33,7 +33,7 @@
 
     "key":"csp_XBPQ_六度",
 
-    "name":"🍹六度影视",
+    "name":"六度影视",
 
     "type":3,
 
@@ -45,25 +45,7 @@
 
     "filterable":0,
 
-    "ext":"{
-
-    \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-
-    \"线路数组\":\"data-toggle&&</li>\",
-
-    \"线路标题\":\">&&/a>\",
-
-    \"播放链接\":\"href=\\\'&&\\\'\",
-
-    \"播放标题\":\">&&\",
-
-    \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
-
-    \"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3\",
-
-    \"分类url\":\"https://6d.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html\"}"},
-
-    //
+    "ext":"https://6d.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html\"}"},
 
 {"key":"drpy_js_我的哔哩","name":"我的哔哩","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"九六","name":"九六┃直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
