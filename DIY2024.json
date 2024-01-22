@@ -28,8 +28,16 @@
 {"key":"Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_七新","name":"七新影视","type": 3,"api": "csp_XBPQ","jar": "./jar/0606.jar","searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"./json/七新影视.json"},
-{"key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ json/奇优影视.json","jar": "./jar/4k.jar"},
- 
+{
+      "key": "csp_xBPQ_奇优",
+      "name": "奇优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/奇优影视.json","jar": "./jar/4k.jar"
+    },
 
 {"key":"drpy_js_我的哔哩","name":"我的哔哩","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"九六","name":"九六┃直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
