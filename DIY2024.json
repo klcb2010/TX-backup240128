@@ -47,7 +47,6 @@
 {"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json","jar":"./jar/spider.jar"},
 {"key":"电影港","name":"电影港","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","jar":"./jar/pg.jar;md5;700a6e117c244c8fd6165fb0de869307","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"影探","name":"影探","type":3,"api":"./lib/drpy.min.js","jar":"./jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F","ext":"./js/yt.js"},
-{"key": "蓝猫动漫","name": "蓝猫动漫","type": 3,"api": "csp_XBPQ","jar": "./jar/0606.jar","ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key": "儿童英语","name": "儿童英语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童英语.json"},
 {"key": "儿童硬笔","name": "儿童硬笔","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童硬笔.json"},
 {"key": "儿童思维","name": "儿童思维","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童思维.json"},
