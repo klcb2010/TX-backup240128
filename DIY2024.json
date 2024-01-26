@@ -23,9 +23,8 @@
 {"key":"荐片版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"泥巴版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":{"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 
-{"key":"纸条","name":"纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","username":"fanty","password": "qqq111","danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
+
 
 
 		
