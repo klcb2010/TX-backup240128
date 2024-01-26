@@ -17,17 +17,9 @@
 {"key": "巧技三","name": "巧技三","type": 3,"api": "csp_qiao2","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
 {"key": "巧技二","name": "巧技二","type": 3,"api": "csp_qiao2","playerType": 2,"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac","ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
 {"key":"玩偶哥哥","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key":"校长影视","name":"校长网盘","type":3,"api":"csp_XiaoZhang","cookie":"http://127.0.0.1:9978/file/TV/quark_cookie.txt","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://127.0.0.1:9978/file/TV/tokenm.json","jar":"./jar/pg.jar;md5;ad3dc4d6cd2e2c3f49c85491feef293b"},
 {"key":"荐片版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-{"key":"运输车版","name":"运输车","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext": {"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/quark_cookie.txt","site":"https://www.weixine.net","danmu":false},  "timeout":30,"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
 {"key":"荐片版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-{"key":"泥巴版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":{"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","username":"fanty","password": "qqq111","danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
-
-
-
-		
+{"key":"泥巴版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":{"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},	
 {"key":"Czsapp","name":"厂长直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/"},
 {"key":"Xinsj","name":"视觉直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
