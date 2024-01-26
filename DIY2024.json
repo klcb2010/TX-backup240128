@@ -1,4 +1,4 @@
-{"spider":".jar/fan.txt;md5;d0fe7c06c67c7d2560f45eb88ba24a14",
+{"spider":".jar/fan.txt;md5;ac94813ed8362444cd4676f381a92f98",
 "lives":[{"name":"首选","type":0,"url":"https://live.fanmingming.com/tv/m3u/v6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"备选","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"备选②","type":0,"url":"https://gitlab.com/klcb2010/TX/-/raw/master/IPtv-DIY.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
