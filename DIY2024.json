@@ -107,6 +107,59 @@
 {"name":"量子廣告","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
 {"name": "量子2","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy"
+            ],
+            "regex": [
+                "20.52"
+            ]
+        },
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                ".cdnlz",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "19.52"
+            ]
+        },
+        {
+            "name": "暴风",
+            "hosts": [
+                "bfzy",
+                "bfbfvip"
+            ],
+            "regex": [
+                "36.12",
+                "19.52"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "16.333333",
+                "15.266667"
+            ]
+        },
+        {
+            "name": "快看",
+            "hosts": [
+                "vip.kuaikan",
+                "kuaikan"
+            ],
+            "regex": [
+                "20.099",
+                "6.166"
+            ]
+        },
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08"]},
 {"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
