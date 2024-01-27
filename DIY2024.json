@@ -7,7 +7,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key":"cc","name":"免费接口，发现广告立即换线路","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
+{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.png"},
 {"key":"豆豆","name":"豆瓣搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
  {
@@ -28,7 +28,7 @@
 {"key": "巧技三","name": "巧技三","type": 3,"api": "csp_qiao2","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
 {"key": "巧技二","name": "巧技二","type": 3,"api": "csp_qiao2","playerType": 2,"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac","ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
 {"key":"玩偶哥哥","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key":"荐片版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu":false},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},	
+{"key":"荐片版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu":false},"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.png", "timeout":30},	
 {"key":"Czsapp","name":"厂长直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/"},
 {"key":"Xinsj","name":"视觉直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
