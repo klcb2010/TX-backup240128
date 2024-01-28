@@ -10,7 +10,7 @@
 {"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/tokenm.json","jar":"http://yydf.540734621.xyz/vx/pg/pg.jar;md5;ad3dc4d6cd2e2c3f49c85491feef293b"},
 {"key":"豆豆","name":"豆瓣搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-{"key":"影视车","name":"影视测试车","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/TV/token.txt$$$https://www.weixine.net/$$$null$$$1$$$http://yydf.540734621.xyz/vx/pg/lib/wogg.json","jar":"http://yydf.540734621.xyz/vx/pg/pg.jar;md5;ad3dc4d6cd2e2c3f49c85491feef293b"},
+{"key":"影视车","name":"影视测试车2","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/TV/token.txt$$$https://www.weixine.net/$$$null$$$1$$$http://yydf.540734621.xyz/vx/pg/lib/wogg.json","jar":"http://yydf.540734621.xyz/vx/pg/pg.jar;md5;ad3dc4d6cd2e2c3f49c85491feef293b"},
 {"key":"360_spider","name":"疯疯想看","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar":"./jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 {"key":"sansan","name":"三三解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"drpy_js_百忙无果","name":"百忙无果","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js","jar":"./jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
